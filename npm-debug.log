@@ -42,7 +42,7 @@
 21 silly publish   dependencies: { cheerio: '^0.22.0', request: '^2.81.0', 'url-parse': '^1.1.8' },
 21 silly publish   readme: '# WebCrawlerInJS',
 21 silly publish   readmeFilename: 'README.md',
-21 silly publish   gitHead: '1b638eab85b1f64250da126fa388d1a43c17cee1',
+21 silly publish   gitHead: 'e297fb89a9c808c768b010e339d989754efb19ca',
 21 silly publish   _id: 'crawl@1.0.0',
 21 silly publish   _shasum: '4bc4285da5f685416f312e221890e68f27da9351',
 21 silly publish   _from: '.' }
@@ -63,18 +63,18 @@
 29 silly publish uploading /Users/arpitmi/.npm/crawl/1.0.0/package.tgz
 30 verbose request uri http://registry.npmjs.org/crawl
 31 verbose request sending authorization for write operation
-32 info attempt registry request try #1 at 8:40:25 PM
+32 info attempt registry request try #1 at 8:44:50 PM
 33 verbose request using bearer token for auth
-34 verbose request id 457f380b2264e72b
+34 verbose request id cec9be88b413fca5
 35 http request PUT http://registry.npmjs.org/crawl
 36 http 403 http://registry.npmjs.org/crawl
 37 verbose headers { 'cache-control': 'max-age=300',
 37 verbose headers   'accept-ranges': 'bytes',
-37 verbose headers   date: 'Sun, 23 Apr 2017 15:07:21 GMT',
+37 verbose headers   date: 'Sun, 23 Apr 2017 15:11:47 GMT',
 37 verbose headers   'x-served-by': 'cache-sin18030-SIN',
 37 verbose headers   'x-cache': 'MISS',
 37 verbose headers   'x-cache-hits': '0',
-37 verbose headers   'x-timer': 'S1492960041.086873,VS0,VE803',
+37 verbose headers   'x-timer': 'S1492960307.659493,VS0,VE980',
 37 verbose headers   vary: 'Accept-Encoding',
 37 verbose headers   'content-length': '99',
 37 verbose headers   'content-type': 'application/json',
