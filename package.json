@@ -1,0 +1,24 @@
+{
+  "name": "crawl",
+  "version": "1.0.0",
+  "description": "search keyword on page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpitlkce/WebCrawlerInJS.git"
+  },
+  "author": "Arpit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arpitlkce/WebCrawlerInJS/issues"
+  },
+  "homepage": "https://github.com/arpitlkce/WebCrawlerInJS#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0",
+    "url-parse": "^1.1.8"
+  }
+}
